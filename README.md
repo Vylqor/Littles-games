@@ -41,7 +41,7 @@ File: `Treasure_Run.py`
 Clone the repository and open its folder:
 
 ```powershell
-git clone https://github.com/Kaezuria/Littles-games.git
+git clone https://github.com/Vylqor/Littles-games.git
 cd Littles-games
 ```
 
@@ -125,4 +125,4 @@ Littles-games/
 
 ## Author
 
-Created by **Kaezuria**.
+Created by **Vylqor**.
