@@ -30,6 +30,13 @@ Explore the ruins, collect every gem, avoid the guards, and reach the exit.
 
 File: `Treasure_Run.py`
 
+### The Lost Dungeon
+
+Explore a hidden dungeon, find the key, collect treasures, avoid traps, and
+reach the exit before you run out of lives.
+
+File: `The_lost_Dungeon.py`
+
 ## Requirements
 
 - Python 3.8 or newer
@@ -72,6 +79,12 @@ Start Treasure Run:
 
 ```powershell
 python Treasure_Run.py
+```
+Start The Lost Dungeon:
+
+
+```powershell
+python The_lost_Dungeon.py
 ```
 
 ## Controls
@@ -120,6 +133,7 @@ Littles-games/
 ├── Snake.py
 ├── TicTacToe.py
 ├── Treasure_Run.py
+├── The_lost_Dungeon.py
 └── README.md
 ```
 
